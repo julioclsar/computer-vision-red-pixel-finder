@@ -2,7 +2,7 @@
 
 Percorre uma imagem para encontrar a coordenada do primeiro pixel vermelho puro.
 
-Este Ã© um exercÃ­cio de estudo do curso de VisÃ£o Computacional, organizado como projeto independente para facilitar a leitura e a execuÃ§Ã£o.
+Este é um projeto independente criado durante um curso de Visão Computacional.
 
 ## Tecnologias
 
@@ -13,14 +13,10 @@ Este Ã© um exercÃ­cio de estudo do curso de VisÃ£o Computacional, organiza
 
 ~~~powershell
 pip install -r requirements.txt
-python Atividade4.py
+python red_pixel_finder.py
 ~~~
 
 ## Arquivos
 
-- **Atividade4.py**: implementaÃ§Ã£o do exercÃ­cio.
-- Arquivos de imagem/classificador necessÃ¡rios Ã  demonstraÃ§Ã£o.
-
-## Contexto
-
-ExercÃ­cio originalmente localizado em **cap2/Atividade4.py** na coleÃ§Ã£o do curso.
+- **red_pixel_finder.py**: implementação do projeto.
+- Arquivos de imagem/classificador necessários à demonstração.
